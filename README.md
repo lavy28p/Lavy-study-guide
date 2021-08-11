@@ -21,14 +21,20 @@ Lavy's Study Guide website helps to quickly browse through snippets of videos an
 ## MVP
 
 1. Complete Backend functionality: 
-   - Setup Ruby
+   - Setup database for users, questions, comment tables
    - Complete CRUD operations
-2. Complete Frontend functionality:
+2. Complete Auth functionality:
+   - Complete authentication for signup
+   - Complete authentication for signin
+   - Complete restriction for users to perform CRUD
+3. Complete Frontend functionality:
    - Complete proper links to all pages
    - Render data on all pages
    - Allow user to add data on required pages 
+   - Allow user to edit data on required pages 
+   - Allow user to delete data on required pages 
    - Complete all components with basic css
- 3.  Deploy Backend and Frontend
+ 4.  Deploy Backend and Frontend
 
 
 ### Libraries and Dependencies
@@ -144,11 +150,7 @@ client
 
 1. Add screen for Ruby videos
 2. Add screen for PostgreSql videos
-3. Complete Auth functionality:
-   - Complete authentication for signup
-   - Complete authentication for signin
-   - Complete restriction for users to perform CRUD
-4. Add more CSS
+3. Add more CSS styling
 
 
 ## Code Showcase
