@@ -31,16 +31,6 @@ Lavy's Study Guide website helps to quickly browse through snippets of videos an
  3.  Deploy Backend and Frontend
 
 
-## Post-MVP
-
-1. Add screen for Ruby videos
-2. Add screen for PostgreSql videos
-3. Complete Auth functionality:
-   - Complete authentication for signup
-   - Complete authentication for signin
-   - Complete restriction for users to perform CRUD
-4. Add more CSS
-
 ### Libraries and Dependencies
 
 > Use this section to list all supporting libraries and dependencies, and their role in the project. Below is an example - this needs to be replaced!
@@ -148,6 +138,17 @@ client
 #### ERD Model
 
 ![image](https://user-images.githubusercontent.com/84349667/129066207-acfc9c2c-522a-419d-8610-2db9031668a7.png)
+
+
+## Post-MVP
+
+1. Add screen for Ruby videos
+2. Add screen for PostgreSql videos
+3. Complete Auth functionality:
+   - Complete authentication for signup
+   - Complete authentication for signin
+   - Complete restriction for users to perform CRUD
+4. Add more CSS
 
 
 ## Code Showcase
