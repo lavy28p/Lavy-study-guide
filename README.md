@@ -20,7 +20,7 @@ Home Page:
 
 
 Interview Questions Page:
-![image](https://user-images.githubusercontent.com/84349667/129056346-6e43580c-a4e2-4120-a543-8b8beb3f7a00.png)
+![image](https://user-images.githubusercontent.com/84349667/129059987-c81452ad-05f8-45b1-928b-4b08e87bbb58.png)
 
 
 Add Questions Page:
@@ -31,7 +31,7 @@ Edit Page:
 ![image](https://user-images.githubusercontent.com/84349667/129056513-393599f0-c17c-4a65-b923-4cb8530f3472.png)
 
 
-Add Answers Page:
+Detail/Add Answers Page:
 ![image](https://user-images.githubusercontent.com/84349667/129056576-8de1bfce-18e7-4b4c-a6f1-53ed5316e522.png)
 
 
