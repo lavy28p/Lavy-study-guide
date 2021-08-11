@@ -53,7 +53,9 @@ Lavy's Study Guide website helps to quickly browse through snippets of videos an
 ### Client (Front End)
 
 #### Wireframes
+
 https://www.figma.com/file/X17zneG0QfS4lWXs0NGmsk/Lavy's-StudyGuide?node-id=6%3A30
+
 
 Login Page:
 ![image](https://user-images.githubusercontent.com/84349667/129055936-0ab861e1-15bc-4754-8da1-43d281991270.png)
@@ -67,20 +69,20 @@ Home Page:
 ![image](https://user-images.githubusercontent.com/84349667/129056139-387423a7-9571-4ab2-a5e5-75a938e6b50d.png)
 
 
-Interview Questions Page:
-![image](https://user-images.githubusercontent.com/84349667/129059987-c81452ad-05f8-45b1-928b-4b08e87bbb58.png)
+Questions Page:
+![image](https://user-images.githubusercontent.com/84349667/129105053-09270c29-aa0e-4550-9d67-717aa55e174f.png)
 
 
 Add Questions Page:
-![image](https://user-images.githubusercontent.com/84349667/129056432-88b1eec0-dd34-45b5-9441-a0a33882457e.png)
+![image](https://user-images.githubusercontent.com/84349667/129104976-3f259d6b-418e-4c75-a477-a4301714e275.png)
 
 
 Edit Page:
-![image](https://user-images.githubusercontent.com/84349667/129056513-393599f0-c17c-4a65-b923-4cb8530f3472.png)
+![image](https://user-images.githubusercontent.com/84349667/129104934-d5a3d059-d946-47d1-80aa-93100bba5a6b.png)
 
 
 Detail/Add Answers Page:
-![image](https://user-images.githubusercontent.com/84349667/129056576-8de1bfce-18e7-4b4c-a6f1-53ed5316e522.png)
+![image](https://user-images.githubusercontent.com/84349667/129104863-ad24c9c2-23d1-4b24-abee-9f1c5851ddbc.png)
 
 
 
