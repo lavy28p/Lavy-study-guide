@@ -132,10 +132,10 @@ client
 | Work on Links        |    H     |     2hrs       |
 | Debugging            |    H     |     4hrs       | 
 | Render results       |    H     |     4hrs       | 
-| Deployment           |    H     |     4hrs       | 
+| Deployment           |    H     |     1hrs       | 
 | Post MVP features    |    M     |     4hrs       |
 | General Research     |    M     |     3hrs       |
-| Add additional CSS   |    M     |     3hrs       | 
+| Add additional CSS   |    M     |     6hrs       | 
 | Total                |    H     |     48hrs      | 
 
 
