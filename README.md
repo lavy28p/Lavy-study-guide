@@ -20,23 +20,37 @@ Lavy's Study Guide website helps to quickly browse through snippets of videos an
 
 ## MVP
 
-> The Minimum Viable Product should be a well-planned, easily-communicated product, ensuring that the client's deliverable will be achievable and meet specifications within the time frame estimated.
+1. Complete Backend functionality: 
+   - Setup Ruby
+   - Complete CRUD operations
+2. Complete Frontend functionality:
+   - Complete proper links to all pages
+   - Render data on all pages
+   - Allow user to add data on required pages 
+   - Complete all components with basic css
+ 3.  Deploy Backend and Frontend
 
-_The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
 
-<br>
+## Post-MVP
+
+1. Add screen for Ruby videos
+2. Add screen for PostgreSql videos
+3. Complete Auth functionality:
+   - Complete authentication for signup
+   - Complete authentication for signin
+   - Complete restriction for users to perform CRUD
+4. Add more CSS
 
 ### Libraries and Dependencies
 
 > Use this section to list all supporting libraries and dependencies, and their role in the project. Below is an example - this needs to be replaced!
 
-|     Library      | Description                                |
-| :--------------: | :----------------------------------------- |
-|      React       | _Lorem ipsum dolor sit amet, consectetur._ |
-|   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
-| React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
-|     Express      | _Lorem ipsum dolor sit amet, consectetur._ |
-|  Express Router  | _Lorem ipsum dolor sit amet, consectetur._ |
+|     Library      | Description                                                                          |
+| :--------------: | :------------------------------------------------------------------------------------|
+|      React       |A front-end JavaScrpit library for building UI components                             |
+|   React Router   | A standard library for routing components in React                                   |
+|      Rails       | Web-application framework which allows you to create a database using the MVC pattern|
+
 
 <br>
 
@@ -86,48 +100,56 @@ This section displays the structure of how the React components are being render
 
 ``` structure
 
-src
-|__ assets/
-      |__ fonts
-      |__ graphics
-      |__ images
-      |__ mockups
+client
+|__ screens/
+      |__ LoginPage.jsx
+      |__ SignupPage.jsx
+      |__ Homepage.jsx
+      |__ Questions.jsx
+      |__ AddQuestion.jsx
+      |__ EditQuestion.jsx
+      |__ AddAnswers.jsx
+      |__ Signout.jsx
 |__ components/
+      |__ Login.jsx
+      |__ Signup.jsx
+      |__ Nav.jsx
+      |__ Footer.jsx
+      |__ Layout.jsx
+      |__ QuestionCard.jsx     
+|__ layout/
       |__ Header.jsx
+      |__ Footer.jsx
 |__ services/
+
 
 ```
 
 #### Time Estimates
 
-> Use this section to estimate the time necessary to build out each of the components you've described above.
+| Task                 | Priority | Estimated Time | Time Invested | Actual Time |
+| -------------------- | :------: | :------------: | :-----------: | :---------: |
+| Initial layout setup |    H     |     4hrs       | 
+| Backend setup        |    H     |     5hrs       | 
+| CRUD operations      |    H     |     5hrs       |  
+| Auth functionality   |    H     |     5hrs       | 
+| Frontend setup       |    H     |     5hrs       |
+| Work on Links        |    H     |     2hrs       |
+| Debugging            |    H     |     4hrs       | 
+| Render results       |    H     |     4hrs       | 
+| Deployment           |    H     |     4hrs       | 
+| Post MVP features    |    M     |     4hrs       |
+| General Research     |    M     |     3hrs       |
+| Add additional CSS   |    M     |     3hrs       | 
+| Total                |    H     |     48hrs      | 
 
-| Task                | Priority | Estimated Time | Time Invested | Actual Time |
-| ------------------- | :------: | :------------: | :-----------: | :---------: |
-| Add Contact Form    |    L     |     3 hrs      |     2 hrs     |    3 hrs    |
-| Create CRUD Actions |    H     |     3 hrs      |     1 hrs     |     TBD     |
-| TOTAL               |          |     6 hrs      |     3 hrs     |     TBD     |
-
-> _Why is this necessary? Time frames are key to the development cycle. You have limited time to code your app, and your estimates can then be used to evaluate possibilities of your MVP and post-MVP based on time needed. It's best you assume an additional hour for each component, as well as a few hours added to the total time, to play it safe._
-
-<br>
 
 ### Server (Back End)
 
 #### ERD Model
 
-> Use this section to display an image of a computer generated ERD model. You can use draw.io, Lucidchart or another ERD tool.
+![image](https://user-images.githubusercontent.com/84349667/129066207-acfc9c2c-522a-419d-8610-2db9031668a7.png)
 
-[ERD Sample](https://drive.google.com/file/d/1kLyQTZqfcA4jjKWQexfEkG2UspyclK8Q/view)
-<br>
-
-***
-
-## Post-MVP
-
-> Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
-
-***
 
 ## Code Showcase
 
