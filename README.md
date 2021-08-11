@@ -37,6 +37,7 @@ Detail/Add Answers Page:
 
 
 # Component Hierarchy
+This section displays the structure of how the React components are being rendered. It shows the parent to child relation between my components, or in other words, show which components are rendering the other components.
 
 ![image](https://user-images.githubusercontent.com/84349667/129062104-1b9ffd0e-6563-4bfe-a00c-39ca9ca1ee41.png)
 
