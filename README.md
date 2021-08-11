@@ -143,7 +143,7 @@ client
 
 #### ERD Model
 
-![image](https://user-images.githubusercontent.com/84349667/129072188-41f60460-18c4-461f-9ef9-974b0174b77b.png)
+![image](https://user-images.githubusercontent.com/84349667/129103767-88127126-2fe3-47b3-b609-e9a01612c60e.png)
 
 
 ## Post-MVP
