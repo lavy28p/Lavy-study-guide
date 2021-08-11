@@ -86,7 +86,7 @@ Detail/Add Answers Page:
 
 #### Component Tree
 
-![image](https://user-images.githubusercontent.com/84349667/129069925-7bc75b4a-7493-44d6-aa3f-733505fcecaf.png)
+![image](https://user-images.githubusercontent.com/84349667/129104056-a518d74b-bbe0-4ac9-a705-ca54cc878858.png)
 
 
 #### Component File Structure
