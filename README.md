@@ -102,6 +102,8 @@ client
       |__ LoginPage.jsx
       |__ SignupPage.jsx
       |__ Homepage.jsx
+      |__ Ruby.jsx
+      |__ PostgreSql.jsx
       |__ Questions.jsx
       |__ AddQuestion.jsx
       |__ EditQuestion.jsx
