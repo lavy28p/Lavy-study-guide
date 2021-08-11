@@ -35,3 +35,9 @@ Detail/Add Answers Page:
 ![image](https://user-images.githubusercontent.com/84349667/129056576-8de1bfce-18e7-4b4c-a6f1-53ed5316e522.png)
 
 
+
+# Component Hierarchy
+
+![image](https://user-images.githubusercontent.com/84349667/129062104-1b9ffd0e-6563-4bfe-a00c-39ca9ca1ee41.png)
+
+
