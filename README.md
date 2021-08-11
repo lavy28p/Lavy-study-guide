@@ -89,14 +89,11 @@ Detail/Add Answers Page:
 
 
 #### Component Tree
-This section displays the structure of how the React components are being rendered. It shows the parent to child relation between my components, or in other words, show which components are rendering the other components.
 
-![image](https://user-images.githubusercontent.com/84349667/129062104-1b9ffd0e-6563-4bfe-a00c-39ca9ca1ee41.png)
+![image](https://user-images.githubusercontent.com/84349667/129069925-7bc75b4a-7493-44d6-aa3f-733505fcecaf.png)
 
 
 #### Component File Structure
-
-> Use this section to define your React components and the data architecture of your app. This should be a reflection of how you expect your directory/file tree to look like. 
 
 ``` structure
 
