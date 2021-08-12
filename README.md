@@ -153,6 +153,7 @@ client
 1. Add screen for Ruby videos
 2. Add screen for PostgreSql videos
 3. Add more CSS styling
+4. Add more screens fot other topics
 
 
 ## Code Showcase
