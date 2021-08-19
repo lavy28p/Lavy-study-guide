@@ -19,6 +19,7 @@ puts "#{User.count} users created"
 # Create Question
 
 question1 = Question.create(post: 'What are ruby datatypes?', user: user1)
+question2 = Question.create(post: 'What is the difference between calling super and calling super()?', user: user1)
 
 puts "#{Question.count} questions created"
 
@@ -26,5 +27,6 @@ puts "#{Question.count} questions created"
 #Create Answer
 
 answer1 = Answer.create(comment: 'Numbers, Strings, Symbols, Hashes, Arrays, Booleans', user: user1, question: question1)
+answer1 = Answer.create(comment: 'super invokes the parent method with the same arguments that were passed to the child method.A super() invokes the parent method without any arguments', user: user1, question: question2)
 
 puts "#{Answer.count} answers created"
