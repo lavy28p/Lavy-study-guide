@@ -1,0 +1,19 @@
+.footer-img {
+  display: flex;
+}
+
+#github-logo {
+  height: 10vh;
+  align-items: center;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  padding-left: 600px;
+}
+
+#linkedin-logo {
+  height: 10vh;
+  align-items: center;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+  padding-left: 50px;
+}
