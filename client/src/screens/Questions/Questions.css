@@ -1,0 +1,54 @@
+
+.questions-text {
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 25px;
+}
+
+.post-layout {
+  display: grid;
+  padding: 40px;
+}
+
+.post {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-radius: 30px;
+  text-decoration: none;
+  background-color: rgb(216, 210, 210);
+}
+
+.post:hover {
+  opacity: 0.8;
+}
+
+.post-button-layout {
+  align-content: center;
+  padding-left: 680px;
+  text-decoration: none;
+}
+
+.post-button{
+  text-decoration: none;
+  background: #222 none;
+  border: 1px solid #222;
+  letter-spacing: 1px;
+  cursor: pointer;
+  box-sizing: border-box;
+  text-shadow: none;
+  padding: 16px 16px 16px 16px;
+  min-height: 1em;
+  width: 150px;
+  font-style: normal;
+  color: white;
+}
+
+span {
+  text-decoration: white;
+  color: white;
+}
+
+.post-button:hover {
+  opacity: 0.9;
+}
