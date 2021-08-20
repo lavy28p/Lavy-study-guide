@@ -192,7 +192,7 @@ DEPENDENCIES
   byebug
   jbuilder (~> 2.7)
   listen (~> 3.3)
-  pg
+  pg (~> 1.2.3)
   pry-rails
   puma (~> 5.0)
   rack-cors
