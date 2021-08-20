@@ -10,19 +10,20 @@ class QuestionsController < ApplicationController
 
   # GET /questions/id
   def show
+    @question = Question.find(params[:id])
     render json: @question, include: {answers:{include: :user}}
   end
 
-# POST /questions
-  def create
-    @question = Question.new(question_params)
-    @question.user = @current_user
-    if @question.save
-      render json: @question, status: :created
-    else
-      render json: @question.errors, status: :unprocessable_entity
-    end
+ # POST /questions
+
+ def create
+  question = Question.new(question_params)
+  if question.save
+    render json: question, status: :created
+  else
+    render json: question.errors, status: :unprocessable_entity
   end
+end
 
 # PATCH/PUT /question/id
   def update
@@ -38,11 +39,7 @@ def destroy
   @question.destroy
 end
 
-  private
-
-  def set_question
-    @question = Question.find(params[:id])
-  end
+private
 
   def question_params
     params.require(:question).permit(:post, :user_id)

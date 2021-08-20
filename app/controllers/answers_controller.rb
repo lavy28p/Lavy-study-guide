@@ -9,7 +9,6 @@ class AnswersController < ApplicationController
 
   # POST /answers
   def create
-
     @question = Question.find(params[:question_id])
     @answer = Answer.where(question_id: @question.id).new(answer_params)
     @answer.user = @answer_user
