@@ -17,3 +17,41 @@
   margin-bottom: 0.75em;
   padding-left: 50px;
 }
+
+@media (max-width: 1024px) {
+  #linkedin-logo {
+    height: 5vh;
+    align-items: center;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
+    padding-left: 5%;
+  }
+
+  #github-logo {
+    height: 5vh;
+    align-items: center;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
+    padding-left: 45%;
+  }
+}
+
+@media (max-width: 800px) {
+
+  #linkedin-logo {
+    height: 5vh;
+    align-items: center;
+    margin-top: 5em;
+    margin-bottom: 0.75em;
+    padding-left: 5%;
+  }
+
+  #github-logo {
+    height: 5vh;
+    align-items: center;
+    margin-top: 5em;
+    margin-bottom: 0.75em;
+    padding-left: 0%;
+  }
+
+}

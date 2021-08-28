@@ -14,7 +14,7 @@ function Home() {
           <img className="img-layout" src="https://i.imgur.com/DjsC543.jpg" alt="question-img"/>
         </div>
         
-        <button className="button-container">
+        <button className="home-button-container">
             <Link className="button-link" to={`/questions`}>
               Questions
             </Link>
